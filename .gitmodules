@@ -1,0 +1,3 @@
+[submodule "Sub_Rep"]
+	path = Sub_Rep
+	url = https://github.com/SamLucid/Sub_Rep.git
